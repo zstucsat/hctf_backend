@@ -13,6 +13,8 @@ HCTF 2017 平台后端。
       Alias /API /var/www/hctf/hctf-backend/public
 </VirtualHost>
 ```
+示例的nginx配置为以下：
+https://github.com/zstucsat/hctf_frontend/raw/master/nginx.conf
 
 开发环境下请使用反向代理将目录指向对应开发服务器。
 
